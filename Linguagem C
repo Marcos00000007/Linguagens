@@ -1,7 +1,5 @@
-# Linguagens
-projetos de linguagem c, c++, c#, java, python, etc...
 /******************************************************************************
- * Tabuada: liguagem C
+ * tabuada liguagem C
 *******************************************************************************/
 #include <stdio.h>
 
